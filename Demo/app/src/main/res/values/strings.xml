@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_your_task_to_manage_your_daily_schedule">Add your task to manage your daily schedule</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Date</string>
+    <string name="customize_own_theme_color">Customize own theme color</string>
+    <string name="long_press_the_task_to_edit_or_delete_in_one">Long press the task to edit or delete in one</string>
+    <string name="let_us_give_you_a_notification_of_your_task_on_time">Let us give you a notification of your task on time</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+
+</resources>
